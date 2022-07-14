@@ -1,12 +1,7 @@
 # guess_the_word
 
-This is the code for the tutorial series on Youtube to build a guess_the_word clone.
-
-https://www.youtube.com/watch?v=qcMyKwNgEPg&list=PLRz1ICq5mNx8tYouCq1Qd9bRjnYxoCuWH&index=1
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+This is the code for the puzzle game named guess the word that i created for my thesis.
+This project use Flutter.
 
 A few resources to get you started if this is your first Flutter project:
 
